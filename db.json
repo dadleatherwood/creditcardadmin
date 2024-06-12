@@ -43,6 +43,21 @@
             "numberOfApplications": 40,
             "createdDate": "28-08-2023",
             "termsAndConditions": "The following conditions are applicable for this card"
+        },
+        {
+            "id": 4,
+            "cardname": "Local Credit Union - Basic Card",
+            "bankName": "Local Credit Union",
+            "description": "Local Credit Union offers customers with variety of options",
+            "maxCredit": 5000,
+            "active": true,
+            "annualFee": 0,
+            "interestRate": 12.5,
+            "introOffer": 200,
+            "recommendedCreditScore": "550-800",
+            "numberOfApplications": 40,
+            "createdDate": "28-08-2023",
+            "termsAndConditions": "The following conditions are applicable for this card"
         }
     ]
 }
