@@ -1,0 +1,48 @@
+{"creditcards": [
+        {
+            "id": 1,
+            "cardname": "Bank of America - Platinum Card",
+            "bankName": "Bank of America",
+            "description": "Bank of America offers customers with variety of options",
+            "maxCredit": 8000,
+            "active": true,
+            "annualFee": 0,
+            "interestRate": 13.5,
+            "introOffer": 200,
+            "recommendedCreditScore": "600-800",
+            "numberOfApplications": 40,
+            "createdDate": "28-08-2023",
+            "termsAndConditions": "The following conditions are applicable for this card"
+        },
+        {
+            "id": 2,
+            "cardname": "Chase - Platinum Card",
+            "bankName": "Chase Bank",
+            "description": "Chase Bank offers customers with variety of options",
+            "maxCredit": 10000,
+            "active": true,
+            "annualFee": 75,
+            "interestRate": 14.5,
+            "introOffer": 200,
+            "recommendedCreditScore": "700-800",
+            "numberOfApplications": 40,
+            "createdDate": "28-08-2023",
+            "termsAndConditions": "The following conditions are applicable for this card"
+        },
+        {
+            "id": 3,
+            "cardname": "Wellsfargo - Premium Card",
+            "bankName": "Wellsfargo",
+            "description": "Wellsfargo offers customers with variety of options",
+            "maxCredit": 15000,
+            "active": true,
+            "annualFee": 75,
+            "interestRate": 15.5,
+            "introOffer": 200,
+            "recommendedCreditScore": "650-800",
+            "numberOfApplications": 40,
+            "createdDate": "28-08-2023",
+            "termsAndConditions": "The following conditions are applicable for this card"
+        }
+    ]
+}
